@@ -13,7 +13,7 @@ Then, we will write the Dockerfile and docker-compose in order to run the whole 
 ## III. Utilization of solution/Tests
 We wrote a Dockerfile and docker-compose.
 
-![img.png](img.png)
+![img_2.png](img_2.png)
 
 version: `3` — this indicates a version of a Compose file, the latest one is the 3 and that’s way we picked it
 
