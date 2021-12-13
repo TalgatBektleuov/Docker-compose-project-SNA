@@ -1,0 +1,6 @@
+#!/bin/zsh
+
+docker stop sna_DB app
+docker rm sna_DB app
+docker rmi sna-db:latest sna:latest
+docker-compose up
