@@ -3,7 +3,7 @@ services:
   web:
     depends_on:
       - db
-    build: ../nodejs-with-mongodb-api-example
+    build: ../Docker-compose-project-SNA
     image: sna
     container_name: app
     ports:

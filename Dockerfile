@@ -1,6 +1,6 @@
 FROM node
 
-COPY ../nodejs-with-mongodb-api-example ./app
+COPY ../Docker-compose-project-SNA ./app
 WORKDIR ./app
 
 RUN npm i
