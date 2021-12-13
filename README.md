@@ -2,7 +2,9 @@
 
 ## I. Goal/Tasks of the Project
 
-The goal is to deploy our application with frontend and backend by using Docker-Compose 
+The goal is to deploy the application with frontend and backend by using Docker-Compose 
+
+The project without docker-compose that we took: https://github.com/ErickWendel/nodejs-with-mongodb-api-example
 
 The demonstration-video is available here: https://www.youtube.com/watch?v=AP6OxASV96c
 
