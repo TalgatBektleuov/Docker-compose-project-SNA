@@ -35,6 +35,11 @@ One of the difficulties was to find an appropriate project for our assignment so
 
 We found several project, but not all databases worked as planned. Eventually, we found one project with MongoDB. 
 
+
+![img_1.png](img_1.png)
+
+After you clone the project and run the "docker-compose up" command within the directory, you can proceed to the website localhost:2000
+
 ## V. Your conclusion, your contemplations and judgement
 
 Docker-compose is a great tool. The big advantage of using Compose is you can define your application stack in a file, keep it at the root of your project repo (it’s now version controlled), and easily enable someone else to contribute to your project. Someone would only need to clone your repo and start the compose app. In fact, there are a few projects on GitHub/GitLab doing exactly this now.

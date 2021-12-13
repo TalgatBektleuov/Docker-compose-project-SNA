@@ -1,6 +1,6 @@
 FROM node
 
-COPY ../Docker-compose-project-SNA ./app
+COPY . .
 WORKDIR ./app
 
 RUN npm i
