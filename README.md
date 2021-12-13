@@ -4,6 +4,8 @@
 
 The goal is to deploy our application with frontend and backend by using Docker-Compose 
 
+The demonstration-video is available here: https://www.youtube.com/watch?v=AP6OxASV96c
+
 ## II. Execution plan/Methodology
 
 First, we will find some project in github with front-end, back-end, and database.
@@ -49,3 +51,4 @@ After you clone the project and run the "docker-compose up" command within the d
 ## V. Your conclusion, your contemplations and judgement
 
 Docker-compose is a great tool. The big advantage of using Compose is you can define your application stack in a file, keep it at the root of your project repo (it’s now version controlled), and easily enable someone else to contribute to your project. Someone would only need to clone your repo and start the compose app. In fact, there are a few projects on GitHub/GitLab doing exactly this now.
+
